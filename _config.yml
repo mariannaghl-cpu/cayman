@@ -3,3 +3,8 @@ description: Οδηγός με αναρριχητικά πεδία στην Ελ
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+# Εμφάνιση σελίδων στο επάνω μενού
+header_pages:
+  - index.md
+  - contact.md
+
