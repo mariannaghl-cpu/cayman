@@ -7,4 +7,5 @@ theme: jekyll-theme-cayman
 header_pages:
   - index.md
   - contact.md
+  - contact.md
 
