@@ -1,6 +1,7 @@
 ---
 title: Επικοινωνία
 layout: default
+permalink: /contact/
 ---
 
 # Επικοινωνία
@@ -12,11 +13,11 @@ layout: default
 ## 📞 Στοιχεία επικοινωνίας
 - **Μαριάννα Γ.**  
   ☎️ Τηλ.: +30 2661 012345  
-  ✉️ Email: [marianna.g@example.com](mailto:marianna.g@example.com)
+  ✉️ Email: [marianna.g@anarp.com](mailto:marianna.g@anarp.com)
 
 - **Χριστίνα Ν.**  
   ☎️ Τηλ.: +30 2661 054321  
-  ✉️ Email: [christina.n@example.com](mailto:christina.n@example.com)
+  ✉️ Email: [christina.n@anarp.com](mailto:christina.n@anarp.com)
 
 ---
 
