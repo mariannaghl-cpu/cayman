@@ -6,6 +6,6 @@ theme: jekyll-theme-cayman
 # Εμφάνιση σελίδων στο επάνω μενού
 header_pages:
   - index.md
-  - contact.md
+  - about.md
   - contact.md
 
