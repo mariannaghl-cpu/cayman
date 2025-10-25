@@ -17,7 +17,7 @@ layout: default
 ---
 
 <div style="display: flex; justify-content: center;">
-  <img src="/cayman/assets/images/daveli1.jpg" width="70%" alt="Αναρριχητικό πεδίο Σπηλιά Νταβέλη - Πεντέλη">
+  <img src="/cayman/assets/images/daveli1.png" width="70%" alt="Αναρριχητικό πεδίο Σπηλιά Νταβέλη - Πεντέλη">
 </div>
 
 ---
