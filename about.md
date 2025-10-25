@@ -22,17 +22,15 @@ permalink: /about/
 
 Μπορείς να μας βρεις και στα κοινωνικά δίκτυα:
 
-<div class="social-icons" style="display:flex; gap:12px; align-items:center; margin:8px 0 16px;">
-  <a href="https://facebook.com/" target="_blank" rel="noopener" aria-label="Facebook">
-    <img src="/cayman/assets/icons/facebook.png" alt="Facebook" width="36" height="36">
-  </a>
-  <a href="https://instagram.com/" target="_blank" rel="noopener" aria-label="Instagram">
-    <img src="/cayman/assets/icons/instagram.png" alt="Instagram" width="36" height="36">
-  </a>
-  <a href="https://youtube.com/" target="_blank" rel="noopener" aria-label="YouTube">
-    <img src="/cayman/assets/icons/youtube.png" alt="YouTube" width="36" height="36">
-  </a>
-</div>
+<a href="https://facebook.com/yourpage" target="_blank" style="margin-right:12px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="28" alt="Facebook">
+</a>
+<a href="https://instagram.com/yourprofile" target="_blank" style="margin-right:12px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="28" alt="Instagram">
+</a>
+<a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="28" alt="LinkedIn">
+</a>
 
 ---
 
