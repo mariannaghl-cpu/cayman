@@ -18,10 +18,21 @@ permalink: /about/
 
 ---
 
-📸 **Ακολουθήστε μας:**
-- [Facebook](https://facebook.com/)
-- [Instagram](https://instagram.com/)
-- [YouTube](https://youtube.com/)
+## 🌐 Social Media
+
+Μπορείς να μας βρεις και στα κοινωνικά δίκτυα:
+
+<div class="social-icons" style="display:flex; gap:12px; align-items:center; margin:8px 0 16px;">
+  <a href="https://facebook.com/" target="_blank" rel="noopener" aria-label="Facebook">
+    <img src="/cayman/assets/icons/facebook.png" alt="Facebook" width="36" height="36">
+  </a>
+  <a href="https://instagram.com/" target="_blank" rel="noopener" aria-label="Instagram">
+    <img src="/cayman/assets/icons/instagram.png" alt="Instagram" width="36" height="36">
+  </a>
+  <a href="https://youtube.com/" target="_blank" rel="noopener" aria-label="YouTube">
+    <img src="/cayman/assets/icons/youtube.png" alt="YouTube" width="36" height="36">
+  </a>
+</div>
 
 ---
 
