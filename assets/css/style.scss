@@ -2,6 +2,7 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
 /* --- Navigation banner --- */
 .navbar {
   position: fixed;
@@ -31,18 +32,24 @@
 
 .nav-links {
   list-style: none;
-  display: flex;
-  gap: 1.5rem;
+  display: flex;              /* 🔹 βάζει τα στοιχεία στη σειρά */
+  gap: 1.5rem;                /* 🔹 απόσταση μεταξύ τους */
   margin: 0;
+  padding: 0;
+}
+
+.nav-links li {
+  display: inline;            /* 🔹 κάθε link στην ίδια γραμμή */
 }
 
 .nav-links a {
   color: white;
   text-decoration: none;
   font-weight: 500;
+  transition: color 0.2s ease-in-out;
 }
 
 .nav-links a:hover {
   text-decoration: underline;
+  color: #ffe;
 }
-
