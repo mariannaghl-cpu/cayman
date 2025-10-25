@@ -15,6 +15,13 @@ layout: default
 📚 **Wikidata:** [Q136532749](https://www.wikidata.org/wiki/Q136532749)
 
 ---
+
+<div style="display: flex; justify-content: center;">
+  <img src="/cayman/assets/images/daveli1.jpg" width="70%" alt="Αναρριχητικό πεδίο Σπηλιά Νταβέλη - Πεντέλη">
+</div>
+
+---
+
 ## 🔗 Σχετικά links
 
 - **Wikidata:** [Q136532749 – Spilia Daveli (Penteli)](https://www.wikidata.org/wiki/Q136532749)  
