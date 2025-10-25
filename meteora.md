@@ -23,8 +23,6 @@ layout: default
 
 ---
 
-## 📸 Φωτογραφίες
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="/cayman/assets/images/meteora1.jpg" width="45%" alt="Αναρρίχηση στα Μετέωρα">
   <img src="/cayman/assets/images/meteora2.jpg" width="45%" alt="Πύργοι Μετεώρων">
@@ -34,12 +32,9 @@ layout: default
 
 ---
 
-## 🧩 Σχετικά links
+## Σχετικά links
 
 - [Σελίδα Wikidata – Meteora Climbing Area](https://www.wikidata.org/wiki/Q136532594)  
 - [Wikipedia: Μετέωρα](https://el.wikipedia.org/wiki/%CE%9C%CE%B5%CF%84%CE%AD%CF%89%CF%81%CE%B1)  
-- [Mountain Project – Meteora](https://www.mountainproject.com/area/105932539/meteora)  
 
 ---
-
-</div>
