@@ -16,6 +16,6 @@ layout: default
 🔗 **Wikidata:** [Q136528132](https://www.wikidata.org/wiki/Q136528132)
 
 📸 **Φωτογραφίες** ![Δουκάδες](/assets/images/Doukades1.jpg)
-
+                  ![Δουκάδες](/assets/images/Doukades2.jpg)
 
 - [Σελίδα Wikidata – Doukades Climbing Area](https://www.wikidata.org/wiki/Q136528132)  
