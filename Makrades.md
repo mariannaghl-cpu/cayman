@@ -14,7 +14,10 @@ layout: default
 🏳️ **Χώρα:** Ελλάδα  
 🔗 **Wikidata:** [Q136464154](https://www.wikidata.org/wiki/Q136464154)
 
----![IMG-20251008-WA0004](https://github.com/user-attachments/assets/8ac4cf33-35f9-466e-b719-df204ed9d0b6)
+## 📸 Φωτογραφία
+
+![Μακράδες](/assets/images/Makrades.jpg)
+
 
 ## Σχετικά links
 
