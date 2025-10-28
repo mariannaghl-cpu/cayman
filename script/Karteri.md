@@ -15,6 +15,8 @@ layout: default
 🏳️ **Χώρα:**  Ελλάδα 
 🔗 **Wikidata:** [Q136528178](https://www.wikidata.org/wiki/Q136528178)
 
-## Σχετικά links
+## 🔗 Σχετικά links
 
-- [Σελίδα Wikidata – karteri Climbing Area](https://www.wikidata.org/wiki/Q136528178)  
+**Wikidata** Αναρριχητικό πεδίο Καρτέρι (https://www.wikidata.org/wiki/Q136528178)
+**Wikipedia** Καρτέρι, θεσπρωτίας (https://el.wikipedia.org/wiki/Καρτέρι Θεσπρωτίας)
+
