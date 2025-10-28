@@ -18,5 +18,6 @@ layout: default
 ## 🔗 Σχετικά links
 
 **Wikidata** Αναρριχητικό πεδίο Καρτέρι (https://www.wikidata.org/wiki/Q136528178)
-**Wikipedia** Καρτέρι, θεσπρωτίας (https://el.wikipedia.org/wiki/Καρτέρι Θεσπρωτίας)
+
+**Wikipedia** Καρτέρι, θεσπρωτίας (https://el.wikipedia.org/wiki/ΚαρτέριΘεσπρωτίας)
 
