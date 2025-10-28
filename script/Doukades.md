@@ -20,5 +20,5 @@ layout: default
 ![Δουκάδες](/assets/images/Doukades1.jpg)
 ![Δουκάδες](/assets/images/Doukades2.jpg)
 
-### Σχετικά links
+### 🔗 Σχετικά links
 - **Wikidata** Αναρριχητικό πεδίο Δουκάδες (https://www.wikidata.org/wiki/Q136528132)
