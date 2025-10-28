@@ -13,7 +13,7 @@ layout: default
 - [Μετέωρα](meteora)
 - [Σπηλιά Νταβέλη](daveli)
 - [Καρέας](kareas)
-- [Μακράδες](Makrades)
+- [Μακράδες](Makrades.md)
 - [Δουκάδες](Doukades)
 - [Καρτέρι](Karteri)
 - [Βαράσοβα](Varasova)
