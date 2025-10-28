@@ -24,9 +24,9 @@ layout: default
 🏳️ **Χώρα:**  Ελλάδα 
 🔗 **Wikidata:** [Q136528146](https://www.wikidata.org/wiki/Q136528146)
 
----![Βαράσοβα](https://github.com/user-attachments/assets/dc24c19a-c3e5-4e5f-aeac-80ce605549b1)
+## Φωτογραφία 
 
-## Σχετικά links
+### Σχετικά links
 
 - [Σελίδα Wikidata – Varasova Climbing Area](https://www.wikidata.org/wiki/Q136528146)  
 
