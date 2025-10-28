@@ -15,7 +15,7 @@ layout: default
 📌 **Συντεταγμένες:** 	39° 41′ 40.22″ N, 19° 52′ 28.6″ E
 🔗 **Wikidata:** [Q136528132](https://www.wikidata.org/wiki/Q136528132)
 
----![Δουκάδες](https://github.com/user-attachments/assets/4d83ee85-b5b5-41b9-98c2-76af8e19f628)
+
 
 ## Σχετικά links
 
