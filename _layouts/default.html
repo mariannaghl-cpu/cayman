@@ -31,88 +31,76 @@
     </nav>
 
     <!-- ===== HERO IMAGE (banner new.jpg) ===== -->
-    <section
-      class="hero"
-      role="img"
-      aria-label="Climbing hero banner"
+<section
+  class="hero"
+  role="img"
+  aria-label="Climbing hero banner"
+  style="
+    position: relative;
+    width: 100%;
+    height: clamp(400px, 55vw, 650px); /* ✅ μεγαλύτερο ύψος, responsive */
+    overflow: hidden;
+    margin: 0;
+    background: #0d2d3a;
+  "
+>
+  <img
+    src="{{ '/assets/images/banner new.jpg' | relative_url }}"
+    alt="Αναρριχητής στα Μετέωρα"
+    fetchpriority="high"
+    decoding="async"
+    style="
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;       /* ✅ γεμίζει όλο το πλάτος */
+      object-position: center 40%; /* ✅ μικρή μετατόπιση για να μην κόβει το πάνω μέρος */
+      display: block;
+    "
+  />
+
+  <div
+    style="
+      position: absolute; inset: 0;
+      background: linear-gradient(0deg, rgba(0,0,0,.25), rgba(0,0,0,.25));
+      z-index: 1;
+    "
+  ></div>
+
+  <div
+    style="
+      position: relative;
+      z-index: 2;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 0 16px;
+    "
+  >
+    <h1
+      class="hero-title"
       style="
-        position: relative;
-        width: 100%;
-        height: clamp(260px, 40vw, 420px); /* responsive ύψος banner */
-        overflow: hidden;
         margin: 0;
-        background:#0d2d3a;               /* φόντο πίσω από την εικόνα (για τις μπάρες στο contain) */
+        color: #fff;
+        font-weight: 800;
+        text-shadow: 0 2px 12px rgba(0,0,0,.5);
+        font-size: clamp(28px, 4vw, 48px);
       "
     >
-      <!-- Η εικόνα φαίνεται ΟΛΟΚΛΗΡΗ (contain) -->
-      <img
-        src="{{ '/assets/images/banner new.jpg' | relative_url }}"
-        alt="Αναρριχητής στα Μετέωρα"
-        fetchpriority="high"
-        decoding="async"
-        style="
-          position: absolute;
-          inset: 0;
-          width: 100%;
-          height: 100%;
-          object-fit: contain;       /* ✅ δείξε την εικόνα ολόκληρη */
-          object-position: center;   /* κεντράρισμα */
-          display: block;
-          background: transparent;   /* αφήνουμε να φαίνεται το φόντο του section όπου περισσεύει */
-        "
-      />
+      Αναρριχητικά Πεδία Ελλάδας
+    </h1>
 
-      <!-- Διακριτική σκίαση (κρατάει αναγνωσιμότητα τίτλου ακόμη και με ανοιχτές/σκούρες εικόνες) -->
-      <div
-        style="
-          position: absolute; inset: 0;
-          background: linear-gradient(0deg, rgba(0,0,0,.20), rgba(0,0,0,.20));
-          z-index: 1;
-          pointer-events:none;
-        "
-      ></div>
+    <p
+      class="hero-subtitle"
+      style="
+        margin: .5rem 0 0;
+        color: #f0f0f0;
+        text-shad
 
-      <!-- Τίτλος/υπότιτλος -->
-      <div
-        style="
-          position: relative;
-          z-index: 2;
-          height: 100%;
-          display: flex;
-          flex-direction: column;
-          align-items: center;
-          justify-content: center;
-          text-align: center;
-          padding: 0 16px;
-        "
-      >
-        <h1
-          class="hero-title"
-          style="
-            margin: 0;
-            color: #fff;
-            font-weight: 800;
-            letter-spacing: .5px;
-            text-shadow: 0 2px 12px rgba(0,0,0,.5);
-            font-size: clamp(28px, 4vw, 48px);
-          "
-        >
-          Αναρριχητικά Πεδία Ελλάδας
-        </h1>
-
-        <p
-          class="hero-subtitle"
-          style="
-            margin: .5rem 0 0;
-            color: #f0f0f0;
-            text-shadow: 0 2px 10px rgba(0,0,0,.45);
-            font-size: clamp(16px, 2vw, 22px);
-          "
-        >
-          Οδηγός για τους πιο όμορφους αναρριχητικούς προορισμούς
-        </p>
-      </div>
-    </section>
 
     <!-- ===== MAIN CONTENT ===== -->
     <main id="content" class="main-content" role="main">
