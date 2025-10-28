@@ -11,7 +11,7 @@ layout: default
 📍 **Τοποθεσία:** Πάδες, Ήπειρος  
 🌍 **Συντεταγμένες:** 39.952° N, 21.037° E  
 🏳️ **Χώρα:** [Ελλάδα](https://www.wikidata.org/wiki/Q41)  
-🔗 **Wikidata:** [Q136658023] (https://www.wikidata.org/wiki/Q136658023)
+🔗 **Wikidata:** [Q136658023] (https://www.wikidata/wiki/Q136658023)
 
 ---
 
