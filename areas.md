@@ -32,7 +32,4 @@ description: Λίστα με τα σημαντικότερα αναρριχητ�
 
 *Κάθε σελίδα περιλαμβάνει συντεταγμένες, τύπο βράχου, Q-ID Wikidata και φωτογραφικό υλικό!*  
 
-<p align="center">
-  <a href="{{ '/' | relative_url }}" style="background:#007acc;color:#fff;padding:10px 16px;border-radius:6px;text-decoration:none;">⬅️ Επιστροφή στην Αρχική</a>
-</p>
 
