@@ -14,10 +14,10 @@ layout: default
 - [Σπηλιά Νταβέλη](daveli.md)
 - [Καρέας](kareas.md)
 - [Μακράδες](Makrades.md)
-- [Δουκάδες](Doukades.md)
-- [Καρτέρι](Karteri.md)
-- [Βαράσοβα](Varasova.md)
-- [Πάδες](Pades.md)
+- [Δουκάδες](script/Doukades.md)
+- [Καρτέρι](script/Karteri.md)
+- [Βαράσοβα](script/Varasova.md)
+- [Πάδες](script/Pades.md)
 
 ---
 
