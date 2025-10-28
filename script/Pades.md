@@ -16,9 +16,6 @@ layout: default
 🔗 **Wikidata:**[Q136658023](https://www.wikidata.org/wiki/Q136658023)
 
 
-
-![Πάδες](https://github.com/user-attachments/assets/613da131-b11b-41cf-a35a-abbdf25b8213)
-
 ## Σχετικά links
 
 - [Σελίδα Wikidata – Pades Climbing Area](https://www.wikidata.org/wiki/Q136658023)  
