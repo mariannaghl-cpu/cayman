@@ -16,6 +16,7 @@ layout: default
 🔗 **Wikidata:**[Q136658023](https://www.wikidata.org/wiki/Q136658023)
 
 
-## Σχετικά links
+## 🔗 Σχετικά links
 
-- [Σελίδα Wikidata – Pades Climbing Area](https://www.wikidata.org/wiki/Q136658023)  
+- **Wikidata:** [Q136658023 – Πάδες (https://www.wikidata.org/wiki/Q136658023)  
+- **Wikipedia:** [Σπήλαιο Νταβέλη](https://el.wikipedia.org/wiki/%CE%A3%CF%80%CE%AE%CE%BB%CE%B1%CE%B9%CE%BF_%CE%9D%CF%84%CE%B1%CE%B2%CE%AD%CE%BB%CE%B7) 
