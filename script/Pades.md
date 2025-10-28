@@ -19,4 +19,4 @@ layout: default
 ## 🔗 Σχετικά links
 
 - **Wikidata:** Αναρριχητικό πεδίο Πάδες [Q136658023](https://www.wikidata.org/wiki/Q136658023)
-- **Wikipedia:** Πάδες, Κόνιτσα (https://el.wikipedia.org/wiki/%CE%A0%CE%AC%CE%B4%CE%B5%CF%82_%CE%99%CF%89%CE%B1%CE%BD%CE%BD%CE%AF%CE%BD%CF%89%CE%BD)
+- **Wikipedia:** Πάδες, Κόνιτσα (https://el.wikipedia.org/wiki/Πάδες Ιωαννίνων)
