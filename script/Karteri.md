@@ -15,4 +15,6 @@ layout: default
 🏳️ **Χώρα:**  Ελλάδα 
 🔗 **Wikidata:** [Q136528178](https://www.wikidata.org/wiki/Q136528178)
 
+## Σχετικά links
 
+- [Σελίδα Wikidata – karteri Climbing Area](https://www.wikidata.org/wiki/Q136528178)  
