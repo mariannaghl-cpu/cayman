@@ -15,8 +15,6 @@ layout: default
 📌 **Συντεταγμένες:** 	39° 41′ 40.22″ N, 19° 52′ 28.6″ E
 🔗 **Wikidata:** [Q136528132](https://www.wikidata.org/wiki/Q136528132)
 
- <img src="/cayman/assets/images/[%CE%94%CE%BF%CF%85%CE%BA%CE%AC%CE%B4%CE%B5%CF%82%201.jpg)" width="45%" alt="Αναρριχητικό πεδίο Δουκάδες">
-](https://github.com/mariannaghl-cpu/cayman/blob/master/assets/images/%CE%94%CE%BF%CF%85%CE%BA%CE%AC%CE%B4%CE%B5%CF%82%201.jpg)
-## Σχετικά links
+📸 **Φωτογραφίες** Αναρρηχιτικό πεδίο Δουκάδες, (assets/images/Δουκάδες 1.png)
 
 - [Σελίδα Wikidata – Doukades Climbing Area](https://www.wikidata.org/wiki/Q136528132)  
