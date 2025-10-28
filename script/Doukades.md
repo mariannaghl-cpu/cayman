@@ -17,4 +17,6 @@ layout: default
 
 ---![Δουκάδες](https://github.com/user-attachments/assets/4d83ee85-b5b5-41b9-98c2-76af8e19f628)
 
+## Σχετικά links
 
+- [Σελίδα Wikidata – Doukades Climbing Area](https://www.wikidata.org/wiki/Q136528132)  
