@@ -26,8 +26,6 @@ layout: default
 
 - **Wikidata:** [Q136532749 – Spilia Daveli (Penteli)](https://www.wikidata.org/wiki/Q136532749)  
 - **Wikipedia:** [Σπήλαιο Νταβέλη](https://el.wikipedia.org/wiki/%CE%A3%CF%80%CE%AE%CE%BB%CE%B1%CE%B9%CE%BF_%CE%9D%CF%84%CE%B1%CE%B2%CE%AD%CE%BB%CE%B7)  
-- **Topo/Οδηγοί:** (πρόσθεσε σύνδεσμο σε pdf/guide αν έχετε στο repo)
-
 ---
 
 
