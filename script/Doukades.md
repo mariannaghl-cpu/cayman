@@ -15,6 +15,6 @@ layout: default
 📌 **Συντεταγμένες:** 	39° 41′ 40.22″ N, 19° 52′ 28.6″ E
 🔗 **Wikidata:** [Q136528132](https://www.wikidata.org/wiki/Q136528132)
 
-📸 **Φωτογραφίες** [Αναρρηχιτικό πεδίο Δουκάδες] (master/assets/images/Δουκάδες 1.jpg)
+📸 **Φωτογραφίες** [Αναρρηχιτικό πεδίο Δουκάδες] (master/assets/images/Doukades1.jpg)
 
 - [Σελίδα Wikidata – Doukades Climbing Area](https://www.wikidata.org/wiki/Q136528132)  
